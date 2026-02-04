@@ -1,1 +1,11 @@
-Modify this file with a description of your mod.
+Create huge arenas as fast as your computer can handle.
+
+Adds:
+ - Arena Builder
+ Creates an arena spanning the entire world, starting at the top and going down to your cursor position. Platforms are placed every 100 blocks.
+ - Hammered Arena Builder
+ Same as the Arena Builder, but it also hammers all the platforms.
+ - Walled Arena Builder
+ Same as the Arena Builder, but it also adds background walls to the entire arena. Torches not included.
+ - Full Arena Builder
+ Combines the effects of the other Arena Builders.
