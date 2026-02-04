@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "py8LgxlEmkc=",
+  "success": true,
+  "projectFilePath": "/home/penrosian/.local/share/Terraria/tModLoader/ModSources/TheGreatArena/TheGreatArena.csproj",
+  "expectedPackageFiles": [
+    "/home/penrosian/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

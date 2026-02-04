@@ -1,0 +1,55 @@
+Items: {
+	ArenaBuilder: {
+		Tooltip:
+			'''
+			!!! WARNING !!!
+			This item will COMPLETELY DESTROY any blocks in the area of effect. Use with extreme caution.
+			Creates an arena across the entire world, with platforms every 100 blocks vertically.
+			Goes from the top of the world to the block that you clicked on.
+			Expect immense amounts of lag, especially on large worlds and when making tall arenas.
+			'''
+		DisplayName: Arena Builder
+	}
+
+	HammeredArenaBuilder: {
+		DisplayName: Hammered Arena Builder
+		Tooltip:
+			'''
+			!!! WARNING !!!
+			This item will COMPLETELY DESTROY any blocks in the area of effect. Use with extreme caution.
+			Creates an arena across the entire world, with platforms every 100 blocks vertically.
+			Goes from the top of the world to the block that you clicked on.
+			All platforms are hammered.
+			Expect immense amounts of lag, especially on large worlds and when making tall arenas.
+			'''
+	}
+
+	FullArenaBuilder: {
+		DisplayName: Full Arena Builder
+		Tooltip:
+			'''
+			!!! WARNING !!!
+			This item will COMPLETELY DESTROY any blocks in the area of effect. Use with extreme caution.
+			Creates an arena across the entire world, with platforms every 100 blocks vertically.
+			Goes from the top of the world to the block that you clicked on.
+			All platforms are hammered.
+			The background is filled with walls. Torches not included.
+			Expect immense amounts of lag, especially on large worlds and when making tall arenas.
+			'''
+	}
+
+	WalledArenaBuilder: {
+		DisplayName: Walled Arena Builder
+		Tooltip:
+			'''
+			!!! WARNING !!!
+			This item will COMPLETELY DESTROY any blocks in the area of effect. Use with extreme caution.
+			Creates an arena across the entire world, with platforms every 100 blocks vertically.
+			Goes from the top of the world to the block that you clicked on.
+			The background is filled with walls. Torches not included.
+			Expect immense amounts of lag, especially on large worlds and when making tall arenas.
+			'''
+	}
+}
+
+Projectiles.ArenaBuilder.DisplayName: Arena Builder

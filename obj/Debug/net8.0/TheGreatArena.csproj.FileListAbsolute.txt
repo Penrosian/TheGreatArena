@@ -1,0 +1,5 @@
+/home/penrosian/.local/share/Terraria/tModLoader/ModSources/TheGreatArena/obj/Debug/net8.0/TheGreatArena.csproj.AssemblyReference.cache
+/home/penrosian/.local/share/Terraria/tModLoader/ModSources/TheGreatArena/obj/Debug/net8.0/TheGreatArena.GeneratedMSBuildEditorConfig.editorconfig
+/home/penrosian/.local/share/Terraria/tModLoader/ModSources/TheGreatArena/obj/Debug/net8.0/TheGreatArena.AssemblyInfoInputs.cache
+/home/penrosian/.local/share/Terraria/tModLoader/ModSources/TheGreatArena/obj/Debug/net8.0/TheGreatArena.AssemblyInfo.cs
+/home/penrosian/.local/share/Terraria/tModLoader/ModSources/TheGreatArena/obj/Debug/net8.0/TheGreatArena.csproj.CoreCompileInputs.cache

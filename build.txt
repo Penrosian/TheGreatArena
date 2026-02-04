@@ -1,0 +1,3 @@
+displayName = The Great Arena
+author = StarLilly
+version = 0.1
